@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/10/01 23:01:42.000.223,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2012/10/01 23:01:42.000.250,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2012/10/01 23:03:05.000.408,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2012/10/01 23:03:05.000.417,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2012/10/17 16:08:33.000.286,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2012/10/17 16:08:33.000.269,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2012/10/27 22:55:43.943,=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2012/10/27 22:55:43.956,=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2012/10/27 23:31:12.499,C:\Users\ZZR\Desktop\Chess\Chess.dfm=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2012/10/27 23:31:12.499,C:\Users\ZZR\Desktop\Chess\Chess.cpp=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2012/10/27 23:31:12.499,C:\Users\ZZR\Desktop\Chess\Chess.h=C:\Users\ZZR\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2012/10/27 23:31:20.229,C:\Users\ZZR\Desktop\Chess\Project1PCH1.h=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2012/10/27 23:31:22.199,C:\Users\ZZR\Desktop\Chess\Project1.cbproj=C:\Users\ZZR\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2012/10/28 00:27:11.889,=C:\Users\ZZR\Desktop\Chess\Unit1.cpp</Transaction>
+    <Transaction>2012/10/28 00:27:36.594,C:\Users\ZZR\Desktop\Chess\Pieces.cpp=C:\Users\ZZR\Desktop\Chess\Unit1.cpp</Transaction>
+    <Transaction>2012/10/28 00:27:36.594,C:\Users\ZZR\Desktop\Chess\Pieces.h=C:\Users\ZZR\Desktop\Chess\Unit1.h</Transaction>
+    <Transaction>2012/10/28 00:28:38.937,=C:\Users\ZZR\Desktop\Chess\ModelSupport_Project1\default.txaPackage</Transaction>
+    <Transaction>2012/10/28 00:28:49.435,=C:\Users\ZZR\Desktop\Chess\ModelSupport_Project1\default.txvpck</Transaction>
+    <Transaction>2012/10/28 00:29:42.570,=C:\Users\ZZR\Desktop\Chess\Class1.cpp</Transaction>
+    <Transaction>2012/10/28 00:29:52.045,c:\users\zzr\desktop\chess\Pcs.cpp=C:\Users\ZZR\Desktop\Chess\Class1.cpp</Transaction>
+    <Transaction>2012/10/28 00:29:52.045,c:\users\zzr\desktop\chess\Pcs.h=C:\Users\ZZR\Desktop\Chess\Class1.h</Transaction>
+  </Transactions>
+</BorlandProject>

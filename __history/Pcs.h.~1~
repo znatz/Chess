@@ -1,0 +1,7 @@
+#ifndef PcsH
+#define PcsH
+
+class Pcs {
+};
+
+#endif /* #ifndef PcsH */
